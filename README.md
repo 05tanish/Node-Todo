@@ -7,7 +7,7 @@ A full-stack Todo application built with **Node.js**, **Express**, **MongoDB**, 
 ## Features (Current & Upcoming)
 - User Authentication (Login, Register, Profile, Change Password)
 - Secure API with JWT
-- Todo Management (Add, Edit, Delete, Toggle Complete) *(Coming in next commit)*
+- Todo Management (Add, Edit, Delete, Toggle Complete)
 
 ## Project Structure
 - `frontend/`: React frontend powered by Vite and styled with Tailwind CSS.
